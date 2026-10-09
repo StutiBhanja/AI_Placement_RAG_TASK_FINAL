@@ -1,0 +1,11 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+vectorstores/
+evaluation/results/
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+.pytest_cache/
+.env.example

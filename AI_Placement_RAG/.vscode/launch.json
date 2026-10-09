@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Streamlit app",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "streamlit",
+      "args": ["run", "app.py"],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Evaluate (retrieval only)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "src.evaluate",
+      "args": ["--no-llm"],
+      "console": "integratedTerminal"
+    }
+  ]
+}

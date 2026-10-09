@@ -1,0 +1,22 @@
+# Core RAG
+langchain>=0.3
+langchain-core>=0.3
+langchain-community>=0.3
+langchain-text-splitters>=0.3
+langchain-google-genai>=2.1
+langchain-chroma>=0.2
+chromadb>=0.5
+faiss-cpu>=1.8
+rank_bm25>=0.2.2
+pypdf>=4.0
+
+# App, config, tracing
+streamlit>=1.35
+python-dotenv>=1.0
+langsmith>=0.1
+
+# Notebooks (VS Code / Jupyter)
+ipykernel>=6.29
+
+# Tests
+pytest>=8.0

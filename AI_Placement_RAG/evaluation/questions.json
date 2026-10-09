@@ -1,0 +1,396 @@
+[
+  {
+    "id": "Q01",
+    "question": "What is overfitting and how can it be reduced?",
+    "category": "technical",
+    "expected_file": "technical_interview_.pdf",
+    "expected_pages": [
+      1
+    ],
+    "expected_keywords": [
+      "training data",
+      "regularisation"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q02",
+    "question": "What is the difference between bagging and boosting?",
+    "category": "technical",
+    "expected_file": "technical_interview_.pdf",
+    "expected_pages": [
+      2
+    ],
+    "expected_keywords": [
+      "parallel",
+      "variance"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q03",
+    "question": "What is a confusion matrix?",
+    "category": "technical",
+    "expected_file": "technical_interview_.pdf",
+    "expected_pages": [
+      2
+    ],
+    "expected_keywords": [
+      "true positives",
+      "false positives"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q04",
+    "question": "What is backpropagation?",
+    "category": "technical",
+    "expected_file": "technical_interview_.pdf",
+    "expected_pages": [
+      3
+    ],
+    "expected_keywords": [
+      "chain rule",
+      "gradient"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q05",
+    "question": "What is the difference between BERT and GPT?",
+    "category": "technical",
+    "expected_file": "technical_interview_.pdf",
+    "expected_pages": [
+      4
+    ],
+    "expected_keywords": [
+      "encoder",
+      "decoder"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q06",
+    "question": "What is hallucination in LLMs?",
+    "category": "technical",
+    "expected_file": "technical_interview_.pdf",
+    "expected_pages": [
+      5
+    ],
+    "expected_keywords": [
+      "incorrect",
+      "retrieved"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q07",
+    "question": "What is the difference between FAISS and ChromaDB?",
+    "category": "technical",
+    "expected_file": "technical_interview_.pdf",
+    "expected_pages": [
+      5
+    ],
+    "expected_keywords": [
+      "metadata",
+      "index"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q08",
+    "question": "How does K-Means clustering work?",
+    "category": "technical",
+    "expected_file": "technical_interview_.pdf",
+    "expected_pages": [
+      2
+    ],
+    "expected_keywords": [
+      "nearest",
+      "mean"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q09",
+    "question": "Why is chunk overlap used in RAG?",
+    "category": "technical",
+    "expected_file": "technical_interview_.pdf",
+    "expected_pages": [
+      5
+    ],
+    "expected_keywords": [
+      "context",
+      "boundar"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q10",
+    "question": "What are advanced RAG techniques?",
+    "category": "technical",
+    "expected_file": "technical_interview_.pdf",
+    "expected_pages": [
+      5
+    ],
+    "expected_keywords": [
+      "hybrid",
+      "rerank"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q11",
+    "question": "What sections should a fresher resume include?",
+    "category": "resume",
+    "expected_file": "resume_guidelines.pdf",
+    "expected_pages": [
+      1
+    ],
+    "expected_keywords": [
+      "education",
+      "projects"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q12",
+    "question": "How should I describe a project on my resume?",
+    "category": "resume",
+    "expected_file": "resume_guidelines.pdf",
+    "expected_pages": [
+      2
+    ],
+    "expected_keywords": [
+      "action verb",
+      "numbers"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q13",
+    "question": "What are common resume mistakes?",
+    "category": "resume",
+    "expected_file": "resume_guidelines.pdf",
+    "expected_pages": [
+      3
+    ],
+    "expected_keywords": [
+      "spelling",
+      "one page"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q14",
+    "question": "In which file format should I send my resume?",
+    "category": "resume",
+    "expected_file": "resume_guidelines.pdf",
+    "expected_pages": [
+      3
+    ],
+    "expected_keywords": [
+      "pdf"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q15",
+    "question": "What is the STAR method?",
+    "category": "hr",
+    "expected_file": "hr_questions.pdf",
+    "expected_pages": [
+      2
+    ],
+    "expected_keywords": [
+      "situation",
+      "task",
+      "action",
+      "result"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q16",
+    "question": "How should I answer: Tell me about yourself?",
+    "category": "hr",
+    "expected_file": "hr_questions.pdf",
+    "expected_pages": [
+      1
+    ],
+    "expected_keywords": [
+      "present",
+      "past",
+      "future"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q17",
+    "question": "What questions should I ask the interviewer?",
+    "category": "hr",
+    "expected_file": "hr_questions.pdf",
+    "expected_pages": [
+      3
+    ],
+    "expected_keywords": [
+      "team",
+      "next steps"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q18",
+    "question": "What should I do if I do not know the answer to an interview question?",
+    "category": "hr",
+    "expected_file": "hr_questions.pdf",
+    "expected_pages": [
+      2
+    ],
+    "expected_keywords": [
+      "honest",
+      "calm"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q19",
+    "question": "What is the formula for profit percentage?",
+    "category": "aptitude",
+    "expected_file": "aptitude.pdf",
+    "expected_pages": [
+      1
+    ],
+    "expected_keywords": [
+      "cost price",
+      "100"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q20",
+    "question": "How do I find average speed when the same distance is covered at two speeds?",
+    "category": "aptitude",
+    "expected_file": "aptitude.pdf",
+    "expected_pages": [
+      2
+    ],
+    "expected_keywords": [
+      "harmonic"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q21",
+    "question": "A can finish a job in 10 days and B in 15 days. How long will they take together?",
+    "category": "aptitude",
+    "expected_file": "aptitude.pdf",
+    "expected_pages": [
+      2
+    ],
+    "expected_keywords": [
+      "6"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q22",
+    "question": "How do I solve blood relation questions?",
+    "category": "aptitude",
+    "expected_file": "aptitude.pdf",
+    "expected_pages": [
+      3
+    ],
+    "expected_keywords": [
+      "family tree"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q23",
+    "question": "What is a syllogism?",
+    "category": "aptitude",
+    "expected_file": "aptitude.pdf",
+    "expected_pages": [
+      3
+    ],
+    "expected_keywords": [
+      "conclusion",
+      "venn"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q24",
+    "question": "What is compound interest?",
+    "category": "aptitude",
+    "expected_file": "aptitude.pdf",
+    "expected_pages": [
+      1
+    ],
+    "expected_keywords": [
+      "principal",
+      "interest"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q25",
+    "question": "how to talk about myself in interview",
+    "category": "hr",
+    "expected_file": "hr_questions.pdf",
+    "expected_pages": [
+      1
+    ],
+    "expected_keywords": [
+      "present",
+      "past"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q26",
+    "question": "Who won the cricket world cup?",
+    "category": null,
+    "expected_file": null,
+    "expected_pages": [],
+    "expected_keywords": [],
+    "answerable": false
+  },
+  {
+    "id": "Q27",
+    "question": "What is the capital of Australia?",
+    "category": null,
+    "expected_file": null,
+    "expected_pages": [],
+    "expected_keywords": [],
+    "answerable": false
+  },
+  {
+    "id": "Q28",
+    "question": "Give me a recipe for pizza dough.",
+    "category": null,
+    "expected_file": null,
+    "expected_pages": [],
+    "expected_keywords": [],
+    "answerable": false
+  },
+  {
+    "id": "Q29",
+    "question": "What is the salary of a software engineer at Google?",
+    "category": null,
+    "expected_file": null,
+    "expected_pages": [],
+    "expected_keywords": [],
+    "answerable": false
+  },
+  {
+    "id": "Q30",
+    "question": "How do I install Kubernetes on Ubuntu?",
+    "category": null,
+    "expected_file": null,
+    "expected_pages": [],
+    "expected_keywords": [],
+    "answerable": false
+  }
+]
